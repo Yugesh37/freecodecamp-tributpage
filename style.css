@@ -1,0 +1,24 @@
+/* CSS files add styling rules to your content */
+body {
+  background: rgb(14,0,105);
+background: linear-gradient(152deg, rgba(14,0,105,1) 0%, rgba(199,24,48,1) 50%, rgba(245,130,7,1) 94%);
+  font-family: times,courier new,cambria;
+  margin: 2em;
+  color: white;
+}
+a {
+  color: white;
+}
+h1 {
+  font-family: fantasy;
+  color: white;
+}
+h2{
+  font-family: Copperplate
+}
+.img-size{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
